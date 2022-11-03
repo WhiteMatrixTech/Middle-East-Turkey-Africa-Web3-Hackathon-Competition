@@ -1,6 +1,6 @@
 # Middle East Turkey Africa Web3 Hackathon Competition PR Submission Guide
 
-!!!  **PR Submission Deadline: May 15, 2022, 23:59 PST PST**
+!!!  **PR Submission Deadline: xxx xx, 2022, xx:xx PST PST**
 
 **1. [Create a Github account.](https://github.com/)**
 
@@ -14,65 +14,64 @@
        
     git config --global user.email xxxxxx@xxx.com
 
- ![](https://d11chu8p22a2zy.cloudfront.net/Gitconfig.png)
+![Gitconfig.png (490×107) (d11chu8p22a2zy.cloudfront.net)](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/Gitconfig.png)
 
    Create a local SSH —— Secure Shell.
 
-    ssh-keygen -t rsa -C "xxxxxx@xxx.com" 
- ![](https://d11chu8p22a2zy.cloudfront.net/Gitlocalssh.png)
+    ssh-keygen -t ed25519 -C "xxxxxx@xxx.com"
+![image-20221103145616848](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/image-20221103145616848.png)
 
    Configure SSH into Github Settings.
 
 > **Linux**: /home/username/.ssh
-> 
+>
 > **Mac**:  /Users/username/.ssh
-> 
+>
 > **Windows**: C:\Documents and Settings\Administrator\.ssh **OR** C:\Users\username\\.ssh
 
 
- ![](https://d11chu8p22a2zy.cloudfront.net/SSH_File.png)
+![image-20221103145835072](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/image-20221103145835072.png)
 
 
 Open the file **id_rsa.pub** with Notepad and copy the content.
-> ssh-rsa XXXXX....XXX
+> ssh-ed25519 XXXXX....XXX
 >
->  xxxxxx@xxx.com
+> xxxxxx@xxx.com
 
    Go to github and login your account.
 
    Find "SSH and GPG keys" in personal account settings.
 
+![image-20221103164814883](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/image-20221103164814883.png)
+
    Click "New SSH key" and paste the content from the file "id_rsa.pub". 
 
-   Then, click "Add SSH key". There is no any specific requirement for title.
-
-   ![](https://d11chu8p22a2zy.cloudfront.net/GithubSettings.png)
-
-   ![](https://d11chu8p22a2zy.cloudfront.net/SSH+and+GPG+keys.png)
+   Then, click "Add SSH key". There is no any specific requirement for title.![](https://d11chu8p22a2zy.cloudfront.net/SSH+and+GPG+keys.png)
 
 Validate if the comfiguration is successful.
 
     ssh -T git@github.com
 
-![](https://d11chu8p22a2zy.cloudfront.net/SSH_Validation.png)
+**Remember to type YES, not the Enter key.**
+
+![image-20221103153636292](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/image-20221103153636292.png)
 
 **3.Fork the open-source codes into the personal remote repository.**
 
-Repository URL: https://github.com/WhiteMatrixTech/Middle-East-Turkey-Africa-Web3-Hackathon-Competition
+Repository URL: [WhiteMatrixTech/Middle-East-Turkey-Africa-Web3-Hackathon-Competition (github.com)](https://github.com/WhiteMatrixTech/Middle-East-Turkey-Africa-Web3-Hackathon-Competition)
 
-  ![](	
-https://d3f4u6mt7x0ttm.cloudfront.net/8208.png)
+![image-20221103155309653](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/image-20221103155309653.png)
 
 **4.Clone personal github repository into local environment via SSH.**
 
-![Middle-East-Turkey-Africa-Web3-Hackathon-Competition/GitCloneViaSSH.png](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/GitCloneViaSSH.png)
+![image-20221103155527274](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/image-20221103155527274.png)
 
     git clone git@github.com:XXXxx
 
   Enter the destination folder.
 
 ``` 
-cd xxxxxxxxxxx
+cd Middle-East-Turkey-Africa-Web3-Hackathon-Competition
 ```
 
   The downloaded folder in Windows can be checked in the route below.
@@ -93,19 +92,21 @@ Use the command line "git push" to upload the project folder to github.
     git commit -m 'submit'
     git push 
 
-![](https://d11chu8p22a2zy.cloudfront.net/GitPush.png)
+![image-20221103165817246](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/image-20221103165817246.png)
 
   Then, the README.md file can be seen on the github repository.
 
-![](https://d11chu8p22a2zy.cloudfront.net/Github_README.png)
+![image-20221103170349836](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/image-20221103170349836.png)
 
 **6.Click "New pull request" and create a PR(Pull Request).**
 
-![](https://d3f4u6mt7x0ttm.cloudfront.net/8213.png)
+![image-20221103160133597](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/image-20221103160133597.png)
+
+![image-20221103160311291](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/image-20221103160311291.png)
 
 **7.Convert PR into Draft where all the match-related resources should be placed.**
 
-![](https://d11chu8p22a2zy.cloudfront.net/ConvertPR2Draft.png)
+![image-20221103160557618](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/image-20221103160557618.png)
 
 ![](	
 https://d3f4u6mt7x0ttm.cloudfront.net/8237.png)
@@ -113,4 +114,4 @@ https://d3f4u6mt7x0ttm.cloudfront.net/8237.png)
 **8.Accomplish the project and submit.**
 
 **9.Convert the status of PR into "Ready For Review" as long as the submission has been done. Bootcamp staff will merge all the PRs.**
-![](https://d11chu8p22a2zy.cloudfront.net/Ready4View.png)
+![image-20221103160640477](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/image-20221103160640477.png)
