@@ -1,7 +1,6 @@
+# Middle East Turkey Africa Web3 Hackathon Competition PR Submission Guide
 
-## Hydra Developer BootCamp PR Submission Guide ##
-
- **PR Submission Deadline: May 15, 2022, 23:59 PST PST**
+!!!  **PR Submission Deadline: May 15, 2022, 23:59 PST PST**
 
 **1. [Create a Github account.](https://github.com/)**
 
@@ -59,14 +58,14 @@ Validate if the comfiguration is successful.
 
 **3.Fork the open-source codes into the personal remote repository.**
 
-Repository URL: https://github.com/WhiteMatrixTech/Hydra-Developer-BootCamp
+Repository URL: https://github.com/WhiteMatrixTech/Middle-East-Turkey-Africa-Web3-Hackathon-Competition
 
   ![](	
 https://d3f4u6mt7x0ttm.cloudfront.net/8208.png)
 
 **4.Clone personal github repository into local environment via SSH.**
 
-  ![](https://d11chu8p22a2zy.cloudfront.net/Code_Clone_SSH.png)
+![Middle-East-Turkey-Africa-Web3-Hackathon-Competition/GitCloneViaSSH.png](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/GitCloneViaSSH.png)
 
     git clone git@github.com:XXXxx
 
@@ -78,9 +77,9 @@ cd xxxxxxxxxxx
 
   The downloaded folder in Windows can be checked in the route below.
 
-> C:\Users\user name\Hydra-Developer-Bootcamp\
+> C:\Users\user name\Middle-East-Turkey-Africa-Web3-Hackathon-Competition\
 
-**5.Create a folder named by your team name under projects. Generate a README.md file which contains the information of your team, your project and the link to your github repository.**
+**5.Create a folder named by your team name under "projects". Generate a README.md file which contains the information of your team, your project and the link to your github repository.**
 
 	Team Name:
 	Job Allocation:
