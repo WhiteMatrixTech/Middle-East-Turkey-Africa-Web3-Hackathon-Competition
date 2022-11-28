@@ -30,6 +30,8 @@ META Star Award : 2000 USDC x 2
 
 *You can register as individual, team leader or who wants to join a team*
 
+[*How to Submit*](https://github.com/WhiteMatrixTech/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/blob/main/How%20to%20submit.md)
+
 **Submission DDL:** Dec 15th, 23:59 GMT+4
 
 
