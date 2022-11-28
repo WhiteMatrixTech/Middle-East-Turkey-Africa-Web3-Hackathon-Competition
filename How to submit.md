@@ -103,7 +103,7 @@ Use the command line "git push" to upload the project folder to github.
 
 ![image-20221103160133597](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/image-20221103160133597.png)
 
-![image-20221103160311291](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/image-20221103160311291.png)
+![create_pr.png](https://d11chu8p22a2zy.cloudfront.net/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/create_pr.png)
 
 **7.Convert PR into Draft where all the match-related resources should be placed.**
 
