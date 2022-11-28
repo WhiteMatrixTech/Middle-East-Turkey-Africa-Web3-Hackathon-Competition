@@ -1,6 +1,6 @@
 # Middle East Turkey Africa Web3 Hackathon Competition PR Submission Guide
 
-!!!  **PR Submission Deadline: xxx xx, 2022, xx:xx PST PST**
+!!!  **PR Submission Deadline: 2022 Dec 15th 23:59 GMT+4**
 
 **1. [Create a Github account.](https://github.com/)**
 
@@ -85,6 +85,7 @@ cd Middle-East-Turkey-Africa-Web3-Hackathon-Competition
 	Project Intro:
 	Video Link:
 	Repository Addr:
+	Contract Addr:
 
 Use the command line "git push" to upload the project folder to github.
 
