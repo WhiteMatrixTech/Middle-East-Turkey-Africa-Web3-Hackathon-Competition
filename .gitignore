@@ -130,9 +130,3 @@ dmypy.json
 
 # added
 .DS_Store
-output_files
-test.xlsx
-artists/
-artists_unclick/
-artists_again/
-ensProject/.DS_Store
