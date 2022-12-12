@@ -1,6 +1,6 @@
 Team Name: Heritage Labs
 Job Allocation: Lukman Saheed - Backend Developer
-                Aroyewon Tope - Frontedn Developer
+                Aroyewon Tope - Frontend Developer
                 Adewale Mayowa - Product Designer
                 Chukwuka Okorie - Product Manager
 Project Intro: Solid is a web based wallet application on the main-net with quick and secured wallet set-up, supporting quick transactional activities and an NFT market place.
