@@ -1,6 +1,6 @@
 # Team Name: 
 
-Fundbrave
+- Fundbrave
 
 # Job Allocation:
 
