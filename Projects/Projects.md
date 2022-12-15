@@ -6,7 +6,7 @@
 	Aden, UI | UX designer
 
 	Project Intro:
-	The Web3 tool to create a secured & justified random raffle.
+	Metopian Luckydraw is the Web3 tool to create a secured & justified random raffle.
 
 	Video Link: TODO
 
