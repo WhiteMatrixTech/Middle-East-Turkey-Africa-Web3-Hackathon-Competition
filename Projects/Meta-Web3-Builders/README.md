@@ -11,11 +11,11 @@ Individuals can join the DAO under certain conditions and propose a solution to 
 A proposal can only be created by a DAO member, and once approved by a majority (70%) of the DAO's members, it is automatically open to the public for funding. Stable Bank DAO members can also contribute to the DAO to help fund the project.
 Furthermore,  everyone who contributes to the fundraising will receive an NFT award(Stable Bank NFT).
 
-### Video Link: https://vimeo.com/781593863/78add61bf9
+### Video Link: https://drive.google.com/drive/folders/1K50WstAdUf01Kd-LRJ_u-M0ZSrOwoOhg?usp=share_link
 
 ### Repository Address: 
-<b>Backend repository URL</b>: https://github.com/Meta-Web3-Builders/Stable-Bank-DAO
-<b>Frontend repository URL</b>: https://github.com/Meta-Web3-Builders/Stable-Bank-Frontend
+<b>Backend repository URL: https://github.com/Meta-Web3-Builders/Stable-Bank-DAO
+<b>Frontend repository URL: https://github.com/Meta-Web3-Builders/Stable-Bank-Frontend
 
 ### Contract Addresses
 <b>Stable Bank DAO Contract Address</b>: https://mumbai.polygonscan.com/address/0xAAaA5FD177FaD34115433B68dc79e66183516e5E  </br>
