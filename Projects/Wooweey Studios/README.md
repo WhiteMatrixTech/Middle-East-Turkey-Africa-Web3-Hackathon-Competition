@@ -13,7 +13,11 @@ Ultraverse is a metaverse allowing absolute freedom for participants yet to choo
 
 
 Video Link: https://twitter.com/UltraverseWorld/status/1603463380739792904
+
 Docs: https://github.com/wooweey/Middle-East-Turkey-Africa-Web3-Hackathon-Competition/blob/main/Projects/Ulraverse.pdf
+
 Repository Addr: https://github.com/WooweeyStudios/UltraverseWorld
+
 Contract Addr: https://bscscan.com/address/0xd78d290d910d56f2385827dc85707db5aeaba5d3
+
 Website: https://ultraverse.world
