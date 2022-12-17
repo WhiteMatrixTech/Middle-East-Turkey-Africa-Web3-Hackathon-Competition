@@ -8,7 +8,8 @@ Project Intro: A most used DeFi Protocol, FlameFinance is a multi chain DeFi tra
 FlameFinance brings new innovative way of Staking called( B2E) staking Modal.
 
 B2E Burn to earn is a staking Modal Whereby a User stake(burn) shit rugged tokens to earn valued tokens in a process of staking.
-[
+
+
 Video Link:
      https://drive.google.com/file/d/1_gyDR32_jopdTqxV080W9U-dY7tG4-EK/view?usp=sharing
      
