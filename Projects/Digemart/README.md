@@ -1,6 +1,7 @@
 Team Name: Digital Labs
 
 Job Allocation: Abdulazeez, Dezzy are the smartcontract developers and Iniodu and Dominic the Frontend developers, Dominic is the team lead and also manages the project.
+
 Project Intro: Digemart was born out of the desire to make life easier for the crypto users and also to facilitate the adoption of the Blockchain ecosystem by crypto and non-crypto users, and to also solve the most pertinent problem that is generally recognizable, which is centralization, to address most of the problems of centralized E-commerce sites, such as exorbitant transaction fees, Shipping related issues such as lost of track of goods/packages, misplacement of packages etc.
 
 Video Link: https://youtu.be/-c2KocRv9rc
