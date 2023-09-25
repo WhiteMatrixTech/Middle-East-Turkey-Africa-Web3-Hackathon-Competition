@@ -80,9 +80,7 @@ cd Middle-East-Turkey-Africa-Web3-Hackathon-Competition
 
 **5.Create a folder named by your team name under "projects". Generate a README.md file which contains the information of your team, your project and the link to your github repository.**
 
-	Team Name:
-	
-	Job Allocation:
+	Project Name:
 	
 	Project Intro:
 	
